@@ -1,9 +1,18 @@
+
+
+
 body {
   background: rgb(0, 255, 213);
   color: maroon;
   margin: 20px;
 }
+h1 {
+  text-aling: 
+}
 li.home a{
   color: red;
+}
+.blog-post-title {
+  font-size: 30in;
 }
 
