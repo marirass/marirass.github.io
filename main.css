@@ -1,8 +1,4 @@
-body {
-  background: rgb(0, 255, 213);
-  color: brown;
-}
-.1{
-  background: yellow;
+li.home a{
   color: red;
 }
+
